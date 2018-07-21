@@ -3,7 +3,7 @@ def my_hash
 my_hash = Hash.new
 my_hash.store("red", "pepperoni")
 my_hash.store("green", "grass")
-my_hash.store("blue", "sky")
+my_hash.store("blue", "jeans")
 
 end
 
